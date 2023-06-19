@@ -197,7 +197,6 @@ class DataWindow(QWidget):
         self.setLayout(layout)
 
 
-"""
 App = QApplication(sys.argv)        
 w = MainWindow()
 w.resize(200,100)
@@ -206,4 +205,3 @@ w.setWindowFlags(Qt.WindowStaysOnTopHint)
 w.show()
 
 sys.exit(App.exec())
-"""
